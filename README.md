@@ -79,7 +79,7 @@
 <body>
     <h1>الطالب محمد أنس نقوان</h1>
 
-    <img src="/storage/emulated/0/DCIM/Screenshots/Screenshotcom.android.chrome.jpg" alt="صورتي الشخصية" class="avatar">
+    <img src="Mnm.jpg" alt="" class="avatar">
 
     <div class="marquee-container">
         <div class="marquee-content">
