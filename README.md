@@ -79,7 +79,7 @@
 <body>
     <h1>الطالب محمد أنس نقوان</h1>
 
-    <img src="Mnm.jpg" alt="" class="avatar">
+    <img src="/storage/emulated/0/Mnm.jpg" alt="" class="avatar">
 
     <div class="marquee-container">
         <div class="marquee-content">
