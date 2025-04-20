@@ -79,7 +79,7 @@
 <body>
     <h1>الطالب محمد أنس نقوان</h1>
 
-    <img src="/storage/emulated/0/اعطني صورة مكتب لمبرمج عليها لوحة مكتوب عليها المهندس محمد نقوان_20250419_233846_٠٠٠٠.jpg" alt="صورتي الشخصية" class="avatar">
+    <img src="/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٥-٠٤-٢٠-١٣-٠٢-٢٢-٢٣١_com.android.chrome.jpg" alt="صورتي الشخصية" class="avatar">
 
     <div class="marquee-container">
         <div class="marquee-content">
